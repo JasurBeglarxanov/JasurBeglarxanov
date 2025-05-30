@@ -31,7 +31,7 @@ I'm a frontend developer.
 
 ## 📌 My Repositories
 
-- [Project 1](https://github.com/JasurBeglarxanov/project-1): Project 1 description
+- [Project 1](https://github.com/JasurBeglarxanov/): Project 1 description
 - [Project 2](https://github.com/JasurBeglarxanov/project-2): Project 2 description
 - [Project 3](https://github.com/JasurBeglarxanov/project-3): Project 3 description
 
