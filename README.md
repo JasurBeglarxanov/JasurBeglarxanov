@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi 👋
+JasurBeglarxanov/README.md
+Hi 👋, I'm JasurBeglarxanov
+I am a frontend developer
 
-<!--
-**JasurBeglarxanov/JasurBeglarxanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Email: jasurbeglarhanov@gmail.com
+Connect with me:
+https://t.me/b_jr06
+https://www.linkedin.com/in/jasur-beglarkhanov-1aa055365/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools I use:
+HTML, CSS, JavaScript, React
