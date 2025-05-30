@@ -32,10 +32,10 @@ I'm a frontend developer.
 
 ## 📌 My Repositories
 
-- [Project 1](https://github.com/JasurBeglarxanov/To-Do-List): Project 1 description
-- [Project 2](https://github.com/JasurBeglarxanov/Portfolio): Project 2 description
-- [Project 3](https://github.com/JasurBeglarxanov/CUser): Project 3 description
-- [Project 3](https://github.com/JasurBeglarxanov/Restaurant): Project 3 description
+- [Project 1](https://github.com/JasurBeglarxanov/To-Do-List): To-Do-List
+- [Project 2](https://github.com/JasurBeglarxanov/Portfolio): Website Portfolio
+- [Project 3](https://github.com/JasurBeglarxanov/CUser): Create-User
+- [Project 3](https://github.com/JasurBeglarxanov/Restaurant): Restaurant
 
 ---
 
