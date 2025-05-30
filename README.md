@@ -26,15 +26,16 @@ I'm a frontend developer.
 
 - 📧 [jasurbeglarhanov@gmail.com](mailto:jasurbeglarhanov@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jasur-beglarkhanov-1aa055365/)
-- [https://t.me/b_jr06]
+- 📱 [https://t.me/b_jr06]
 
 ---
 
 ## 📌 My Repositories
 
 - [Project 1](https://github.com/JasurBeglarxanov/To-Do-List): Project 1 description
-- [Project 2](https://github.com/JasurBeglarxanov/project-2): Project 2 description
-- [Project 3](https://github.com/JasurBeglarxanov/project-3): Project 3 description
+- [Project 2](https://github.com/JasurBeglarxanov/Portfolio): Project 2 description
+- [Project 3](https://github.com/JasurBeglarxanov/CUser): Project 3 description
+- [Project 3](https://github.com/JasurBeglarxanov/Restaurant): Project 3 description
 
 ---
 
