@@ -2,7 +2,7 @@
 
 I'm a frontend developer.
 
-📍 **Location:** Tashkent, Uzbekistan  
+📍 **Location:** Uzbekistan, Tashkent  
 📧 **Email:** [jasurbeglarhanov@gmail.com](mailto:jasurbeglarhanov@gmail.com)  
 🌐 **Portfolio:** [jasurbeglarxanov.netlify.app](http://jasurbeglarxanov.netlify.app)
 
@@ -10,8 +10,8 @@ I'm a frontend developer.
 
 ## 🔧 I use
 
-- **Programming Languages:** JavaScript
-- **Frameworks and Libraries:** React
+- **Programming Languages:** JavaScript, TypeScript
+- **Frameworks and Libraries:** React js, Next js
 - **Tools and Technologies:**Git, Figma
 
 ---
@@ -40,6 +40,7 @@ I'm a frontend developer.
 ---
 
 ## 🧠 My Interests
+
 
 - Web application development
 - UX/UI design
