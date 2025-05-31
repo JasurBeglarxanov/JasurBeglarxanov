@@ -35,7 +35,8 @@ I'm a frontend developer.
 - [Project 1](https://github.com/JasurBeglarxanov/To-Do-List): To-Do-List
 - [Project 2](https://github.com/JasurBeglarxanov/Portfolio): Website Portfolio
 - [Project 3](https://github.com/JasurBeglarxanov/CUser): Create-User
-- [Project 3](https://github.com/JasurBeglarxanov/Restaurant): Restaurant
+- [Project 4](https://github.com/JasurBeglarxanov/Weather-App): Weather App
+- [Project 5](https://github.com/JasurBeglarxanov/Restaurant): Restaurant
 
 ---
 
