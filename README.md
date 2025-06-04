@@ -1,4 +1,4 @@
-# Hi, I'm Jasur Beglarxanov 👋
+# Hi 👋, I'm Jasur Beglarxanov 
 
 I'm a frontend developer.
 
