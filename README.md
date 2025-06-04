@@ -31,6 +31,8 @@
   <a href="https://www.linkedin.com/in/jasur-beglarkhanov-1aa055365/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+---
   
   <!-- Gmail (исправленная версия) -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jasurbeglarhanov@gmail.com" target="_blank" style="margin-right: 10px;">
