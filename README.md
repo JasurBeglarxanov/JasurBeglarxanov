@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jasur Beglarxanov 
-
-**<span style="font-size: 1.2em;">I'm a frontend developer.</span>**
+ 
+<p style="font-size: 1.5em; font-weight: bold;">I'M A FRONTEND DEVELOPER</p>
 
 📍 **Location:** Uzbekistan, Tashkent  
 🌐 **Portfolio:** [jasurbeglarxanov.netlify.app](http://jasurbeglarxanov.netlify.app)
