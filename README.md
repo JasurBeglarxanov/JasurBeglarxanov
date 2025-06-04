@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jasur Beglarxanov 
 
-**<span style="font-size: 1.3em;">💻 I'M A FRONTEND DEVELOPER</span>**
+**<span style="font-size: 2em;">💻 I'M A FRONTEND DEVELOPER</span>**
 
 📍 **Location:** Uzbekistan, Tashkent  
 🌐 **Portfolio:** [jasurbeglarxanov.netlify.app](http://jasurbeglarxanov.netlify.app)
