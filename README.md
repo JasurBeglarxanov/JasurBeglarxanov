@@ -1,7 +1,5 @@
 # Hi 👋, I'm Jasur Beglarxanov 
 
-Hi, I'm Jasur Beglarxanov
-
 **<span style="font-size: 1.2em;">I'm a frontend developer.</span>**
 
 📍 **Location:** Uzbekistan, Tashkent  
