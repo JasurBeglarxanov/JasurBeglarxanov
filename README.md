@@ -3,7 +3,6 @@
 **<span style="font-size: 1.2em;">I'm a frontend developer.</span>**
 
 📍 **Location:** Uzbekistan, Tashkent  
-📧 **Email:** [jasurbeglarhanov@gmail.com](mailto:jasurbeglarhanov@gmail.com)  
 🌐 **Portfolio:** [jasurbeglarxanov.netlify.app](http://jasurbeglarxanov.netlify.app)
 
 ---
