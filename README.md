@@ -1,6 +1,8 @@
 # Hi 👋, I'm Jasur Beglarxanov 
 
-I'm a frontend developer.
+Hi, I'm Jasur Beglarxanov
+
+**<span style="font-size: 1.2em;">I'm a frontend developer.</span>**
 
 📍 **Location:** Uzbekistan, Tashkent  
 📧 **Email:** [jasurbeglarhanov@gmail.com](mailto:jasurbeglarhanov@gmail.com)  
