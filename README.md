@@ -18,10 +18,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
 </p>
 
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasurBeglarxanov&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ---
 
 ## 📍 Let's Connect
@@ -33,12 +29,12 @@
   </a>
   
   <!-- Gmail (исправленная версия) -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jasurbeglarhanov@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=beglarhanovjasur@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
   <!-- Telegram -->
-  <a href="https://t.me/b_jr06" target="_blank">
+  <a href="https://t.me/b_jr01" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
